@@ -1,3 +1,5 @@
+Please download the entire folder. main.py alone will not work.
+
 main.py - is a seq2seq evaluator with a default question -
 'Show the times used by climbers to climb mountains in Country Uganda.'
 which the translater predicted correctly.
