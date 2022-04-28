@@ -18,8 +18,8 @@ TestSetDataFrame.CSV - This Contains Questions from the Test Set,
 The original Query, The Predicted Query, Correctly Predicted Query (if not correctly predicted the cell is empty), Number of Tables Predicted Correctly (0,1,2), 
 Cosine Similarity Score and Number of Columns Predicted Correctly/ Total Number of Columns in Original Query ( This is 1 when all columns are correctly predicted),
 Effectiveness based on Cosine Similarity Score
-Very Bad - Similarity < 0.2
-Bad - Similarity > 0.2 but <= 0.4
+Very Poor - Similarity < 0.2
+Poor - Similarity > 0.2 but <= 0.4
 Good - Similarity > 0.4 but <= 0.6
 Very Good - Similarity > 0.6 but <= 0.8
 Excellent - Similarity > 0.8 but <= 1
